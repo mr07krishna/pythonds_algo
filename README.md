@@ -1,2 +1,2 @@
-# pythonds_algo
+# python
 dsa algo  pratics
