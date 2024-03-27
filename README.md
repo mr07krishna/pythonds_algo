@@ -1,2 +1,2 @@
 # python
-dsa algo  pratics
+dsa alg
